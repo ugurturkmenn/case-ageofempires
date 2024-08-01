@@ -5,7 +5,7 @@
 * Redux-Saga
 * Tailwind
 * SCSS
-* Netlify
+* Netlify https://case-ageofempires.vercel.app
 
 ## Pages
 

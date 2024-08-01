@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component should match the snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <header
+      class="text-gray-700 body-font border-b border-gray-200"
+    >
+      <div
+        class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center"
+      >
+        <nav
+          class="md:ml-auto flex flex-wrap items-center text-base justify-center gap-5"
+        >
+          <a
+            href="/"
+          >
+            Home
+          </a>
+          <a
+            href="/units"
+          >
+            Units
+          </a>
+        </nav>
+      </div>
+    </header>
+  </div>
+</DocumentFragment>
+`;

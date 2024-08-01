@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AgesFilter Component should match the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    data-testid="ages-filter"
+  >
+    <h2>
+      Ages
+    </h2>
+    <div
+      class="flex gap-3 mb-3 mt-3 text-white"
+    >
+      <button
+        class="bg-slate-500 p-1"
+        value="ALL"
+      >
+        ALL
+      </button>
+      <button
+        class="bg-slate-500 p-1"
+        value="DARK"
+      >
+        DARK
+      </button>
+      <button
+        class="bg-slate-500 p-1"
+        value="FEUDAL"
+      >
+        FEUDAL
+      </button>
+      <button
+        class="bg-slate-500 p-1"
+        value="CASTLE"
+      >
+        CASTLE
+      </button>
+      <button
+        class="bg-slate-500 p-1"
+        value="IMPERIAL"
+      >
+        IMPERIAL
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
